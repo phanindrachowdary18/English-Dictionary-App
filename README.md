@@ -1,0 +1,2 @@
+# English-Dictionary-App
+Created it using to software – interfaces (database and user software interfaces), created it using serialization package, this project is all about adding, find the meaning, update the word and exiting. Database – software interface (receives a python dictionary and saves it to a serialized file and returns a python dictionary after de-serializing the file.). User – software interface (provides all functionalities to call i.e., n=1,2,3,4)
